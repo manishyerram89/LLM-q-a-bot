@@ -1,1 +1,1 @@
-# LLM-q-a-bot
+# LLM q/a bot
