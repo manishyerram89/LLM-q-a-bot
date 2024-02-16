@@ -2,6 +2,5 @@
 
 <li>Using Open Source Models hosted on Hugging Face Model Hub</li>
 <li>Built using OpenAI and Langchain</li>
-The model can answer any question and displays the answer chunk number taking a single
-/multiple PDFs as source.
+Any question can be answered by the model, which uses one or more PDFs as sources and shows the answer chunk number.
 
