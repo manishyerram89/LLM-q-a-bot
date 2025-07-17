@@ -1,4 +1,4 @@
-# LLM QA Bot
+# LexiDocs
 
 <li>Using Open Source Models hosted on Hugging Face Model Hub</li>
 <li>Built using OpenAI and Langchain</li>
